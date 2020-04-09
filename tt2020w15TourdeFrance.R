@@ -13,7 +13,7 @@ glimpse(editions)
 
 library(ggthemes)
 library(ggplot2)
-library(ggrepl)
+library(ggrepel)
 
 caption <- paste (strwrap ("TidyTuesday wk 15 April 2020 @RegisOconnor"), collapse = "\n")
 
